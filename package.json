@@ -1,0 +1,11 @@
+{
+  "name": "code-golf-danbo",
+  "version": "1.0.0",
+  "description": "Internal code challenge for TE Create",
+  "scripts": {
+    "test": "jest solution.test.js"
+  },
+  "devDependencies": {
+    "jest": "^27.0.0"
+  }
+}
