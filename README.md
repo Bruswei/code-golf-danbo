@@ -24,7 +24,7 @@ This is an internal code challenge for Danbo-day.
 
 ## Requirements to Win the Challenge
 
-- Your solution must pass all the tests. You can run the tests using the following command:
+- Your solution must pass all the tests.
 
 - The solution with fewest characters in the code wins within a hour wins!
 
