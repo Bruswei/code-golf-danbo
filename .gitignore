@@ -130,4 +130,4 @@ dist
 .pnp.*
 
 
-.solution/counting-characters/*
+.solution/counting-letters/*
