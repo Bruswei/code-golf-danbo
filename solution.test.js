@@ -54,6 +54,11 @@ describe("Testing the function solution", () => {
         "Both the commencement and the conclusion are pivotal in the saga of triumph.",
       expected: 1 + 3 + 2 + 1 + 1,
     },
+    // Test case 11
+    {
+      input: "On a cold, winter morning, hot coffee can be quite comforting.",
+      expected: 1 + 2 + 2 + 1 + 1,
+    },
   ];
 
   testCases.forEach((testCase, index) => {
